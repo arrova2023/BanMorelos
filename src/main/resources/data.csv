@@ -1,0 +1,40 @@
+Nombre,Apellido,Número de Cuenta,Banco,Estado
+Carlos,Rodríguez,1234-5678-9012-3456,Bancomer,CDMX
+Sofía,Hernández,9876-5432-1098-7654,HSBC,Puebla
+Miguel,López,5432-1098-7654-3210,BBVA,Querétaro
+Ana,Martínez,4567-8901-2345-6789,Santander,Veracruz
+María,Pérez,7890-1234-5678-9012,Banamex,Yucatán
+José,García,2345-6789-0123-4567,HSBC,Nuevo León
+Pedro,Rodríguez,5678-9012-3456-7890,Bancomer,Guanajuato
+Laura,Fernández,8901-2345-6789-0123,Banamex,Sinaloa
+Juan,López,3456-7890-1234-5678,BBVA,Jalisco
+Ricardo,Martínez,1230-9876-5432-1098,Scotiabank,CDMX
+Luisa,Hernández,8765-4321-0987-6543,HSBC,Puebla
+Andrés,Pérez,5432-1098-7654-3210,Inbursa,Querétaro
+Isabel,Rodríguez,4567-8901-2345-6789,Santander,Veracruz
+Gabriel,García,7890-1234-5678-9012,Scotiabank,Nuevo León
+Paola,López,2345-6789-0123-4567,BBVA,Guanajuato
+Fernando,Pérez,5678-9012-3456-7890,Banamex,Sinaloa
+Valentina,Martínez,8901-2345-6789-0123,HSBC,Jalisco
+Rafael,Gómez,3456-7890-1234-5678,Bancomer,CDMX
+Carolina,Ortiz,1230-9876-5432-1098,Scotiabank,Puebla
+Martín,Fernández,8765-4321-0987-6543,Inbursa,Querétaro
+Diana,Gutiérrez,5432-1098-7654-3210,Santander,Veracruz
+Sebastián,Rodríguez,4567-8901-2345-6789,BBVA,Nuevo León
+Valeria,Sánchez,7890-1234-5678-9012,Scotiabank,Guanajuato
+Emilio,López,2345-6789-0123-4567,Bancomer,Sinaloa
+Juliana,Hernández,5678-9012-3456-7890,Banamex,Jalisco
+Mateo,Martínez,8901-2345-6789-0123,HSBC,CDMX
+Regina,García,3456-7890-1234-5678,Inbursa,Puebla
+Diego,Pérez,1230-9876-5432-1098,Santander,Querétaro
+Camila,Rodríguez,8765-4321-0987-6543,BBVA,Veracruz
+Samuel,Gómez,5432-1098-7654-3210,Scotiabank,Nuevo León
+Ximena,López,4567-8901-2345-6789,HSBC,Guanajuato
+Nicolás,Fernández,7890-1234-5678-9012,Bancomer,Sinaloa
+Valeria,Ortiz,2345-6789-0123-4567,Banamex,Jalisco
+Matías,Martínez,5678-9012-3456-7890,Scotiabank,CDMX
+Lucía,Hernández,8901-2345-6789-0123,Inbursa,Puebla
+Juan,Pérez,3456-7890-1234-5678,Santander,Querétaro
+Victoria,Rodríguez,1230-9876-5432-1098,BBVA,Veracruz
+Leonardo,García,8765-4321-0987-6543,Bancomer,Nuevo León
+Renata,López,5432-1098-7654-3210,HSBC,Guanajuato
