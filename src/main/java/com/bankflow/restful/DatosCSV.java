@@ -37,6 +37,4 @@ public class DatosCSV {
 		Estado = estado;
 	}
 
-    // getters y setters
-    
 }

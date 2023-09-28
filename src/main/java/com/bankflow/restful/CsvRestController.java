@@ -10,7 +10,7 @@ import java.io.Reader;
 import java.util.ArrayList;
 import java.util.List;
 
-@CrossOrigin(origins = "http://localhost:4200") // Reemplaza "http://localhost:3000" con el origen que desees permitir
+@CrossOrigin(origins = "http://localhost:4200") // Reemplaza "http://localhost:4200" con el origen que desees permitir
 @RestController
 @RequestMapping("/api/csv")
 public class CsvRestController {
